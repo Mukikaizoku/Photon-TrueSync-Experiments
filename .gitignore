@@ -1,0 +1,22 @@
+#Folders
+/Library
+/Temp
+/Builds
+/.uEcho
+/.vs
+
+#Project/User Preference Files
+EditorSettings.asset
+*.sln
+*.csproj
+*.unityproj
+*.pidb
+*.userprefs
+*.user
+*.suo
+
+#OS Junk
+Thumbs.db
+.DS_Store*
+ehthumbs.db
+Icon7
